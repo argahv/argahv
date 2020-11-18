@@ -7,3 +7,4 @@
 }
 
 [![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=argahv&count_private=true&show_icons=true&theme=radical)](https://github.com/argahv/github-readme-stats)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=argahv&layout=compact&theme=blue-green" />
