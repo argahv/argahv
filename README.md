@@ -6,4 +6,4 @@
 "python":["data_science","machine_learning","flask"]
 # }
 
-[![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=argahv)](https://github.com/argahv/github-readme-stats)
+[![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=argahv)](https://github.com/argahv/github-readme-stats&count_private=true&show_icons=true&theme=radical)
