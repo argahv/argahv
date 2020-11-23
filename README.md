@@ -8,4 +8,4 @@
 
 [![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=argahv&count_private=true&show_icons=true&theme=radical)](https://github.com/argahv/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argahvhide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argahv&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
