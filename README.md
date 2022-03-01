@@ -8,5 +8,5 @@
 }
 </code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argahv&layout=compact)](https://github.com/argahv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github.com/argahv?tab=repositories&layout=compact&hide=jupyter)](https://github.com/argahv/github-readme-stats)
