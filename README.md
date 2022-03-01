@@ -8,5 +8,3 @@
 }
 </code>
 
-
-[![Top Langs](https://github.com/argahv?tab=repositories&layout=compact&hide=jupyter)](https://github.com/argahv/github-readme-stats)
