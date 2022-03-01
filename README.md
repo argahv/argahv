@@ -7,3 +7,5 @@
 <strong>"dart"</strong>:["flutter"]
 }
 </code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argahv&layout=compact)](https://github.com/argahv/github-readme-stats)
