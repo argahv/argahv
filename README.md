@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Data Science (ML) enthusiast and App Developer
+## Data Science (ML) enthusiast and Software Engineer 
 
 <code> {
 <strong>"javascript"</strong>:["react","node_js","mongodb","mongoose","react_native","express_js"],
