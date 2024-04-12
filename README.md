@@ -1,10 +1,3 @@
-### Hi there 👋
-## Data Science (ML) enthusiast and Software Engineer 
+Highly motivated Software Engineer with a proven track record in crafting full-stack mobile and web applications. I leverage the power of the MERN stack (MongoDB, Express.js, React.js, Node.js) and TypeScript to deliver robust and performant solutions. My expertise extends to application scaling and DevOps principles, including utilizing Docker and Kubernetes for streamlined CI/CD pipelines.
 
-<code> {
-<strong>"javascript"</strong>:["react","node_js","mongodb","mongoose","react_native","express_js"],
-<strong>"python"</strong>:["data_science","machine_learning","flask"],
-<strong>"dart"</strong>:["flutter"]
-}
-</code>
-
+Passionate about blockchain technology (Web3), I actively explore its potential and integrate it into my development endeavors. I possess a deep interest in researching software architecture and design patterns, constantly seeking practical use cases to optimize projects.
